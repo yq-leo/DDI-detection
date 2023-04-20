@@ -1,0 +1,4 @@
+,method,precision,recall,accuracy,roc_auc,f1,average_precision,mcc,aupr
+0,Naive Bayes,0.653,0.5974,0.6397,0.6922,0.6235,0.6821,0.2807,0.7258
+1,Logistic Regression,0.5639,0.5075,0.5572,0.583,0.5338,0.5608,0.1151,0.6588
+2,Random Forest,0.7457,0.5911,0.6948,0.7923,0.6589,0.7641,0.3985,0.7706
